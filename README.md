@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Your Name]  
+# 👋 Hey there! I'm Zey 
 
 🚀 Full-stack developer | ⚡ Physics Enthusiast | 🎨 E-commerce Architect  
 
