@@ -118,11 +118,11 @@ const zey = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idkzeynav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=idkzeynav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idkzeynav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=idkzeynav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=idkzeynav&theme=tokyonight&hide_border=true)
