@@ -1,46 +1,178 @@
-# 👋 Hey there! I'm Zey 
+# 👋 Hey there, I'm Zey!
 
-🚀 Full-stack developer | ⚡ Physics Enthusiast | 🎨 E-commerce Architect  
+### Full-Stack Developer | Data Science Enthusiast | Problem Solver
 
-## About Me  
-- 👩‍💻 I specialize in **MERN stack** and have a love-hate relationship with `console.log()`  
-- 🛍️ Currently building an **e-commerce platform** that’s more than just a store—it's a **forum, a marketplace, and a learning hub** all in one!  
-- 🔬 **Physics meets code**—I created a **physics solver** using ChatGPT API, trained on a **Hugging Face dataset**, with a sprinkle of **multithreading magic** ✨  
-- 🎓 Survived **parallel computing, graph theory, and six midterms at once** (barely)  
-- 🎯 If you see me in VS Code at 3 AM, no you don’t.  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Building+impactful+solutions;MERN+Stack+Developer;Exploring+Data+Science;Always+learning%2C+always+coding)
 
-## What I’m Working On  
-🔹 **Tamkeen**: Empowering talented women in Pakistan through an e-commerce platform  
-🔹 **PhysiQ**: Web app that visualizes electric fields and calculates physics formulas  
-🔹 **Forum System**: Implementing **upvotes, downvotes, and threaded replies** because discussions need structure!  
+[![Profile Views](https://komarev.com/ghpvc/?username=idkzeynav&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/idkzeynav)
 
-## Fun Facts  
-- 🎨 Choosing the perfect color scheme for Tamkeen is **harder than debugging**  
-- 🏋️‍♀️ Trying to hit the gym at least **3x a week** (send help)  
-- 🤯 Short attention span but still somehow juggling multiple projects  
+---
 
-## 💻 Tech Stack  
+## 🚀 About Me
 
-### **Frontend**  
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) |
-|---|---|---|---|
+```javascript
+const zey = {
+    location: "Islamabad, Pakistan",
+    education: "Computer Science Graduate",
+    currentFocus: ["Full-Stack Development", "Data Science", "Building Products"],
+    lookingFor: "Opportunities to create impactful solutions",
+    approach: "Search, learn, solve - repeat 🔄",
+    funFact: "I spend more time choosing color schemes than debugging 🎨"
+};
+```
 
-### **Backend**  
-| ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express&logoColor=white) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) |
-|---|---|---|---|
+- 🎓 Fresh CS graduate with a passion for building and learning
+- 💼 Currently seeking opportunities in **Full-Stack Development**
+- 🔭 Building **Tamkeen** - An e-commerce platform empowering talented women in Pakistan
+- 🌱 Growing my data science skills through hands-on projects
+- 👯 Open to collaborate on **web applications** and **data-driven projects**
+- 💬 Ask me about **MERN stack, e-commerce platforms, or my learning journey**
+- ⚡ Fun fact: I survived 6 midterms at once and documented my entire MERN journey
 
-### **Databases**  
-| ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) |  |
-|---|---|---|---|
+---
 
-### **DevOps & Hosting**  
-| ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white) | ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) | ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) |
-|---|---|---|---|
+## 🛠️ Tech Stack
 
-### **Tools & Other**  
-| ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-|---|---|---|---|
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## Let’s Connect!  
-📬 Reach out if you’re into **collaborating on impactful projects** or just want to discuss 💪  
+### Data Science & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🎯 Featured Projects
+
+### 🛍️ Tamkeen - E-Commerce Platform
+> Empowering talented women in Pakistan through an integrated marketplace, forum, and learning hub
+
+**Tech Stack:** MongoDB, Express, React, Node.js, Redux, Tailwind CSS  
+**Features:** 
+- Forum system with upvotes/downvotes and threaded replies
+- Product marketplace with vendor management
+- User authentication and role-based access
+- Real-time notifications
+
+**Why it matters:** Building a platform that creates real social impact while solving complex technical challenges
+
+---
+
+### 📈 Stock Sentiment Analysis
+> Analyzing market sentiment from news and social media to predict stock trends
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, NLP  
+**Approach:** Learned by doing - researched techniques and implemented solutions step by step
+
+[View Repository →](https://github.com/idkzeynav/Stock-Sentiment-Analysis)
+
+---
+
+### 💰 Loan Grant Classification
+> Machine learning model to predict loan approval decisions based on applicant data
+
+**Tech Stack:** Python, Pandas, Scikit-learn, Jupyter Notebook  
+**Learning:** Understanding data preprocessing, feature engineering, and model evaluation
+
+[View Repository →](https://github.com/idkzeynav/Classification-of-Loan-Grant-Dataset)
+
+---
+
+### 📚 Bytewise MERN Fellowship Journey
+> Complete documentation of my MERN stack learning journey (Batch 3, 2024)
+
+**Tech Stack:** MongoDB, Express, React, Node.js  
+**Highlights:** 
+- Comprehensive project documentation
+- Full-stack applications from scratch
+- REST API development
+- Authentication systems
+
+[View Repository →](https://github.com/idkzeynav/Bytewise-MERN)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idkzeynav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idkzeynav&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=idkzeynav&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=idkzeynav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+## 🎨 What I'm Currently Working On
+
+```
+📌 Completing Tamkeen's forum and marketplace features
+📌 Expanding my data science toolkit through practical projects
+📌 Contributing to open-source projects
+📌 Building a strong portfolio of full-stack applications
+📌 Actively seeking full-stack developer opportunities
+```
+
+---
+
+## 💡 My Approach
+
+I believe in **learning by building**. When I encounter a problem, I:
+1. 🔍 Research the best approaches
+2. 🛠️ Implement and experiment
+3. 📝 Document what I learn
+4. 🔄 Iterate and improve
+
+This approach has helped me build real projects while continuously growing my skills in both web development and data science.
+
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab333/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeynabxco@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://idkzeynav.netlify.app/)
+
+**Open to opportunities, collaborations, and connecting with fellow developers!**
+
+---
+
+### 💭 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🐍 Contribution Graph
+
+![Snake animation](https://raw.githubusercontent.com/idkzeynav/idkzeynav/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+**Thanks for visiting! Let's build something impactful together! 🚀**
