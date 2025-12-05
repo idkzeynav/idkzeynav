@@ -77,6 +77,8 @@ const zey = {
 
 **Why it matters:** Building a platform that creates real social impact while solving complex technical challenges
 
+[View Repository →](https://github.com/idkzeynav/Tamkeen2.0)
+
 ---
 
 ### 📈 Stock Sentiment Analysis
@@ -169,7 +171,7 @@ This approach has helped me build real projects while continuously growing my sk
 
 ### 🐍 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/idkzeynav/idkzeynav/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/idkzeynav/idkzeynav/output/github-snake-dark.svg)
 
 ---
 
