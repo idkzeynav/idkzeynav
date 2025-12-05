@@ -117,11 +117,11 @@ const zey = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=idkzeynav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=idkzeynav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
