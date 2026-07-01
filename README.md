@@ -47,11 +47,9 @@ const zey = {
 
 ## 🎯 Featured Projects
 
-**[Tamkeen](https://github.com/idkzeynav/Tamkeen2.0)** — Full-stack platform for women entrepreneurs: marketplace, forums, real-time chat, e learning, Stripe payments
-
-**[Stock Sentiment Predictor](https://github.com/idkzeynav/Stock-Sentiment-Analysis)** — NLP sentiment model on 10K+ news/social posts, 87% accuracy, deployed on Streamlit
-
-**[Loan Grant Classifier](https://github.com/idkzeynav/Classification-of-Loan-Grant-Dataset)** — Benchmarked 6 ML algorithms on 111K+ applications; Random Forest was the top performer
+- **[Tamkeen](https://github.com/idkzeynav/Tamkeen2.0)** — Full-stack platform for women entrepreneurs: marketplace, forums, real-time chat, e-learning, Stripe payments
+- **[Stock Sentiment Predictor](https://github.com/idkzeynav/Stock-Sentiment-Analysis)** — NLP sentiment model on 10K+ news/social posts, 87% accuracy, deployed on Streamlit
+- **[Loan Grant Classifier](https://github.com/idkzeynav/Classification-of-Loan-Grant-Dataset)** — Benchmarked 6 ML algorithms on 111K+ applications; Random Forest was the top performer
 
 ---
 
